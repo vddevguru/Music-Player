@@ -28,7 +28,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 ![image](https://github.com/user-attachments/assets/8f60272e-3331-468b-955f-fe28dc059936)
 
 
